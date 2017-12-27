@@ -1,0 +1,53 @@
+.discover {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.download {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#header {
+    font-size: 42px;
+    font-weight: 300;
+    font-family: Verdana;
+    color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+#remembers {
+  font-family: Verdana;
+  font-size: 21px;
+  color: grey;
+  padding-bottom: 20px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+#phone {
+  padding-top: 24px;
+}
+
+#soon {
+  font-size: 42px;
+  font-weight: 300;
+  font-family: Verdana;
+  color: white;
+}
+
+#excursion {
+  text-align: right;
+  color: grey;
+}
